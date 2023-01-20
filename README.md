@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![whyour's github stats](https://github-readme-stats.vercel.app/api?username=cscnk52&count_private=true&show_icons=true&theme=dark)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@c24926a3-6b4d-4e87-a69e-40a7585eda1e/a8a4c45b-66dd-44ca-9424-969b1dce508b.png" /></a>
+[![wakatime daily](https://wakatime.com/share/@c24926a3-6b4d-4e87-a69e-40a7585eda1e/a29ae007-dbf5-4c74-a9e1-25d57d376cb4.svg)](https://wakatime.com/@c24926a3-6b4d-4e87-a69e-40a7585eda1e)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
