@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![wakatime](https://wakatime.com/badge/user/c24926a3-6b4d-4e87-a69e-40a7585eda1e.svg)](https://wakatime.com/@c24926a3-6b4d-4e87-a69e-40a7585eda1e)
 
-![whyour's github stats](https://github-readme-stats.vercel.app/api?username=cscnk52&show_icons=true&theme=tokyonight&include_all_commits=true)
+![cscnk52's github stats](https://github-readme-stats.vercel.app/api?username=cscnk52&show_icons=true&theme=tokyonight&include_all_commits=true)
 ![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=cscnk52&layout=compact&theme=tokyonight&include_all_commits=true)
 
 [![wakatime daily](https://wakatime.com/share/@c24926a3-6b4d-4e87-a69e-40a7585eda1e/a29ae007-dbf5-4c74-a9e1-25d57d376cb4.svg)](https://wakatime.com/@c24926a3-6b4d-4e87-a69e-40a7585eda1e)
