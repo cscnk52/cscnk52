@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 [![wakatime daily](https://wakatime.com/share/@c24926a3-6b4d-4e87-a69e-40a7585eda1e/a29ae007-dbf5-4c74-a9e1-25d57d376cb4.svg)](https://wakatime.com/@c24926a3-6b4d-4e87-a69e-40a7585eda1e)
 
-## The courses i take
+## The courses I take
 
-| course           | website                          | status   | assert             |
+| Course           | Website                          | Status   | Assets             |
 |------------------|----------------------------------|----------|--------------------|
 | CS50x 2023       | https://cs50.harvard.edu/x/2023/ | learning | psets and labs[^1] |
 | Missing semester | https://missing.csail.mit.edu/   | learning | None               |
