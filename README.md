@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 some useful sources: https://github.com/abhisheknaiidu/awesome-github-profile-readme#tools 
 -->
-[![wakatime](https://wakatime.com/badge/user/c24926a3-6b4d-4e87-a69e-40a7585eda1e.svg)](https://wakatime.com/@c24926a3-6b4d-4e87-a69e-40a7585eda1e)
+![wakatime](https://wakatime.com/badge/user/c24926a3-6b4d-4e87-a69e-40a7585eda1e.svg)
 
 ![cscnk52's github stats](https://github-readme-stats.vercel.app/api?username=cscnk52&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)
 ![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=cscnk52&layout=compact&theme=tokyonight&include_all_commits=true&hide_border=true)
