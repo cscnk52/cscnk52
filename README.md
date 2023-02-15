@@ -21,4 +21,4 @@ some useful sources: https://github.com/abhisheknaiidu/awesome-github-profile-re
 ![cscnk52's github stats](https://github-readme-stats.vercel.app/api?username=cscnk52&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)
 ![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=cscnk52&layout=compact&theme=tokyonight&include_all_commits=true&hide_border=true)
 
-[![wakatime daily](https://wakatime.com/share/@c24926a3-6b4d-4e87-a69e-40a7585eda1e/a29ae007-dbf5-4c74-a9e1-25d57d376cb4.svg)](https://wakatime.com/@c24926a3-6b4d-4e87-a69e-40a7585eda1e)
+![wakatime daily](https://wakatime.com/share/@c24926a3-6b4d-4e87-a69e-40a7585eda1e/a29ae007-dbf5-4c74-a9e1-25d57d376cb4.svg)
