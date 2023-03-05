@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'am cscnk52, a student in HRBUST.
+I'm cscnk52, a student in HRBUST.
 <!--
 **cscnk52/cscnk52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
