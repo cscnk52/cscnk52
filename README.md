@@ -18,7 +18,9 @@ some useful sources: https://github.com/abhisheknaiidu/awesome-github-profile-re
 -->
 ![wakatime](https://wakatime.com/badge/user/c24926a3-6b4d-4e87-a69e-40a7585eda1e.svg)
 
-![cscnk52's github stats](https://github-readme-stats.vercel.app/api?username=cscnk52&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)
-![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=cscnk52&layout=compact&theme=tokyonight&include_all_commits=true&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cscnk52&theme=github_dark)
 
-![wakatime daily](https://wakatime.com/share/@c24926a3-6b4d-4e87-a69e-40a7585eda1e/a29ae007-dbf5-4c74-a9e1-25d57d376cb4.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cscnk52&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cscnk52&theme=github_dark&utcOffset=8)
+
+![wakatime daily](https://wakatime.com/share/@cscnk52/0e7b1f6b-383f-400a-9a65-43bced635459.png)
