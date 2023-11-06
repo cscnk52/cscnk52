@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 some useful sources: https://github.com/abhisheknaiidu/awesome-github-profile-readme#tools 
 -->
+<!--
 ![wakatime](https://wakatime.com/badge/user/c24926a3-6b4d-4e87-a69e-40a7585eda1e.svg)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cscnk52&theme=github_dark)
@@ -24,3 +25,4 @@ some useful sources: https://github.com/abhisheknaiidu/awesome-github-profile-re
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cscnk52&theme=github_dark&utcOffset=8)
 
 ![wakatime daily](https://wakatime.com/share/@cscnk52/0e7b1f6b-383f-400a-9a65-43bced635459.png)
+-->
