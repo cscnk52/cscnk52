@@ -18,6 +18,7 @@ some useful sources: https://github.com/abhisheknaiidu/awesome-github-profile-re
 -->
 <!--
 ![wakatime](https://wakatime.com/badge/user/c24926a3-6b4d-4e87-a69e-40a7585eda1e.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcscnk52%2Fcscnk52.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcscnk52%2Fcscnk52?ref=badge_shield)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cscnk52&theme=github_dark)
 
@@ -26,3 +27,7 @@ some useful sources: https://github.com/abhisheknaiidu/awesome-github-profile-re
 
 ![wakatime daily](https://wakatime.com/share/@cscnk52/0e7b1f6b-383f-400a-9a65-43bced635459.png)
 -->
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcscnk52%2Fcscnk52.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcscnk52%2Fcscnk52?ref=badge_large)
