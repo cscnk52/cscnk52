@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 
 some useful sources: https://github.com/abhisheknaiidu/awesome-github-profile-readme#tools 
 -->
-<!--
+
 ![wakatime](https://wakatime.com/badge/user/c24926a3-6b4d-4e87-a69e-40a7585eda1e.svg)
 
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cscnk52&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cscnk52&theme=github_dark)
