@@ -19,8 +19,6 @@ some useful sources: https://github.com/abhisheknaiidu/awesome-github-profile-re
 
 [![wakatime](https://wakatime.com/badge/user/c24926a3-6b4d-4e87-a69e-40a7585eda1e.svg?style=flat-square)](https://wakatime.com/@cscnk52)
 
-<a rel="me" href="https://mastodon.social/@cscnk52">Mastodon</a>
-
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cscnk52&theme=github_dark)
 
