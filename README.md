@@ -2,8 +2,14 @@
     <a href="https://afdian.com/a/cscnk52">
         <img src="https://img.shields.io/badge/AFDIAN-%40cscnk52-946CE6?style=flat-square&logo=afdian&logoColor=fff&labelColor=946CE6" alt="AFDIAN">
     </a>
+    <a href="https://bsky.app/profile/cscnk52.me">
+        <img src="https://img.shields.io/badge/Bluesky-@cscnk52.me-0285FF?style=flat-square&logo=bluesky&logoColor=fff&labelColor=0285ff" alt="Bluesky">
+    </a>
     <a href="https://app.folo.is/share/users/cscnk52">
         <img src="https://img.shields.io/badge/Folo-%40cscnk52-ff5c00?style=flat-square&logo=folo&logoColor=fff&labelColor=ff5c00" alt="Folo">
+    </a>
+    <a href="https://mastodon.social/@cscnk52">
+        <img src="https://img.shields.io/badge/Mastodon-@cscnk52@mastodon.social-6364ff?style=flat-square&logo=mastodon&logoColor=fff&labelColor=6364ff" alt="Mastodon">
     </a>
     <a href="https://steamcommunity.com/id/cscnk52">
         <img src="https://img.shields.io/badge/Steam-%40cscnk52-1a9fff?style=flat-square&logo=steam&logoColor=fff&labelColor=1a9fff" alt="Steam">
