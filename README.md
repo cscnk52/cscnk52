@@ -14,4 +14,7 @@
     <a href="https://x.com/cscnk52">
         <img src="https://img.shields.io/badge/X/Twitter-%40cscnk52-000000?style=flat-square&logo=x&logoColor=fff&labelColor=000000" alt="X">
     </a>
+    <a href="https://blog.cscnk52.me">
+        <img src="https://img.shields.io/badge/Zola-blog.cscnk52.me-2f1910?style=flat-square&logo=zola&logoColor=fff&labelColor=2f1910" alt="Zola">
+    </a>
 </p>
