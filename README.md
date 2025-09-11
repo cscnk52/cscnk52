@@ -8,6 +8,8 @@
         <a href="https://bsky.app/profile/cscnk52.me">Bluesky</a>
         <img src="https://cdn.simpleicons.org/folo?viewbox=auto&size=8" />
         <a href="https://app.folo.is/share/users/cscnk52">Folo</a>
+        <img src="https://cdn.simpleicons.org/gnuprivacyguard?viewbox=auto&size=8" />
+        <a href="https://github.com/cscnk52.gpg">GPG</a>
         <img src="https://cdn.simpleicons.org/mastodon?viewbox=auto&size=8" />
         <a href="https://mastodon.social/@cscnk52">Mastodon</a>
         <img src="https://cdn.simpleicons.org/steam/00adee?viewbox=auto&size=8" />
