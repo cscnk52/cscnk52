@@ -22,3 +22,4 @@
         <a href="https://x.com/cscnk52">X/Twitter</a>
     </samp>
 </p>
+<link href="https://mastodon.social/@cscnk52" rel="me">
